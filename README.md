@@ -11,8 +11,6 @@ This repository showcases the codebase and assets for the artist's website hoste
 
 
 
-https://github.com/izhangit/Wall-Art-Portfolio/assets/108143680/a3795676-0831-4157-a28d-06a5f044defc
-
 
 
 
